@@ -1,0 +1,18 @@
+C:\Users\abdul\FinalProject\BRAINSTORM\BRAINSTORM\bin\Debug\BRAINSTORM.exe.config
+C:\Users\abdul\FinalProject\BRAINSTORM\BRAINSTORM\bin\Debug\BRAINSTORM.exe
+C:\Users\abdul\FinalProject\BRAINSTORM\BRAINSTORM\bin\Debug\BRAINSTORM.pdb
+C:\Users\abdul\FinalProject\BRAINSTORM\BRAINSTORM\obj\Debug\BRAINSTORM.csprojResolveAssemblyReference.cache
+C:\Users\abdul\FinalProject\BRAINSTORM\BRAINSTORM\obj\Debug\BRAINSTORM.Form1.resources
+C:\Users\abdul\FinalProject\BRAINSTORM\BRAINSTORM\obj\Debug\BRAINSTORM.Properties.Resources.resources
+C:\Users\abdul\FinalProject\BRAINSTORM\BRAINSTORM\obj\Debug\BRAINSTORM.csproj.GenerateResource.Cache
+C:\Users\abdul\FinalProject\BRAINSTORM\BRAINSTORM\obj\Debug\BRAINSTORM.exe
+C:\Users\abdul\FinalProject\BRAINSTORM\BRAINSTORM\obj\Debug\BRAINSTORM.pdb
+C:\Users\abdul\FinalProject - Copy\BRAINSTORM - Copy\BRAINSTORM\bin\Debug\BRAINSTORM.exe.config
+C:\Users\abdul\FinalProject - Copy\BRAINSTORM - Copy\BRAINSTORM\obj\Debug\BRAINSTORM.exe
+C:\Users\abdul\FinalProject - Copy\BRAINSTORM - Copy\BRAINSTORM\obj\Debug\BRAINSTORM.pdb
+C:\Users\abdul\FinalProject - Copy\BRAINSTORM - Copy\BRAINSTORM\bin\Debug\BRAINSTORM.exe
+C:\Users\abdul\FinalProject - Copy\BRAINSTORM - Copy\BRAINSTORM\bin\Debug\BRAINSTORM.pdb
+C:\Users\abdul\FinalProject - Copy\BRAINSTORM - Copy\BRAINSTORM\obj\Debug\BRAINSTORM.csprojResolveAssemblyReference.cache
+C:\Users\abdul\FinalProject - Copy\BRAINSTORM - Copy\BRAINSTORM\obj\Debug\BRAINSTORM.Form1.resources
+C:\Users\abdul\FinalProject - Copy\BRAINSTORM - Copy\BRAINSTORM\obj\Debug\BRAINSTORM.Properties.Resources.resources
+C:\Users\abdul\FinalProject - Copy\BRAINSTORM - Copy\BRAINSTORM\obj\Debug\BRAINSTORM.csproj.GenerateResource.Cache
